@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "The Unix Shell"
+title: "The Neuroscience Gateway"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: kenneth@sdsc.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
