@@ -14,7 +14,7 @@ keypoints:
  
 ### The NSG Portal
 
- [NSG Portal](https://nsgportal.org) is a simple web site.
+ [NSG Portal](http://nsgportal.org) is a simple web site.
 
 ### What does it look like?
 
