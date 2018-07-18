@@ -28,6 +28,8 @@ upload to NSG Portal in the data upload process.
 This file (or one downloaded from [JonesEtAl2009 from ModelDB](https://senselab.med.yale.edu/modeldb/eavBinDown.cshtml?o=136803&mime=application/zip) can
 be used as input.
 
+Log in to your NSG account at the [Login Page](https://nsgdev.sdsc.edu:8443/portal2).
+
 Create a Folder.  Folders contain sections for Data and Tasks.
 [Folder Management](https://nsgdev.sdsc.edu:8443/portal2/folder!list.action)
 

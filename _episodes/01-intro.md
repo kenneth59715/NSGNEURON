@@ -15,15 +15,12 @@ keypoints:
 ### The NSG Portal
 
  [NSG Portal](http://www.nsgportal.org) is a simple entry point.
+There is a [FAQ](http://www.nsgportal.org/faq.html).
 
 ### Registration Form
 
 To request an account, fill out and submit the form
 at [Registration Form](http://www.nsgportal.org/gest/reg.php).
-{% comment %}
-- [FAQ](http://www.nsgportal.org/faq.html)
-- [Login Page](https://nsgdev.sdsc.edu:8443/portal2)
-{% endcomment %}
 
 You will receive email confirmation when the account is approved.
 
