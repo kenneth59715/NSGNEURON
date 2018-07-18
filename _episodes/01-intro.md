@@ -14,9 +14,13 @@ keypoints:
  
 ### The NSG Portal
 
- [NSG Portal](http://nsgportal.org) is a simple web site.
+ [NSG Portal](http://www.nsgportal.org) is a simple entry point.
 
-### What does it look like?
+### What can be accessed?
+
+- [Registration Form](http://www.nsgportal.org/gest/reg.php)
+- [FAQ](http://www.nsgportal.org/faq.html)
+- [Login Page](https://nsgdev.sdsc.edu:8443/portal2)
 
 A typical shell window looks something like:
 
