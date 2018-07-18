@@ -17,11 +17,5 @@ NSG supercomputers.
 > ## Prerequisites
 >
 > This lesson guides you through usage of the Neuroscience Gateway (NSG)
-> portal.  If you have stored files on a computer at all and recognize
-> the word “file” and either “directory” or “folder” (two common words
-> for the same thing), you're ready for this lesson.
->
-> If you're already comfortable manipulating files and directories,
-> searching for files with `grep` and `find`, and writing simple loops
-> and scripts, you probably want to explore the next lesson: [shell-extras](http://swcarpentry.github.io/shell-extras/).
-{: .prereq}
+> portal.  No shell commands are required, just use of a web browser.
+> You will need an activated account for NSG portal.
