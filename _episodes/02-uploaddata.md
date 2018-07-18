@@ -30,7 +30,9 @@ be used as input.
 Log in to your NSG account at the [Login Page](https://nsgdev.sdsc.edu:8443/portal2).
 
 Create a Folder.  Folders contain sections for Data and Tasks.
-[//: # [Folder Management](https://nsgdev.sdsc.edu:8443/portal2/folder!list.action)
+{% comment %}
+[Folder Management](https://nsgdev.sdsc.edu:8443/portal2/folder!list.action)
+{% endcomment %}
 
 Go to the Data section and click on Upload Data, then browse to the desired input.zip file
 and confirm.  The file should show up in the data list.
