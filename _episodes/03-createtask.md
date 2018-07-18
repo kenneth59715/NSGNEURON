@@ -13,7 +13,7 @@ keypoints:
 ---
 
 To run a simulation/analysis, a Task should be created.  This is
-done in the [Tasks section](https://nsgdev.sdsc.edu:8443/portal2/task!list.action).
+done in the Tasks section.
 
 - Click on "Create New Task"
 - Enter a Description
@@ -23,6 +23,6 @@ done in the [Tasks section](https://nsgdev.sdsc.edu:8443/portal2/task!list.actio
 Nodes and Cores, then click "Save Parameters"
 - Click "Save and Run Task"
 
-You can check status of the work by going to the [Task List](https://nsgdev.sdsc.edu:8443/portal2/task!list.action) and clicking on "View Status" for the Task.
+You can check status of the work by going to the Task List and clicking on "View Status" for the Task.
 You can view output files of the running job by clicking on "Intermediate Results".
 Once the Task has completed, you should receive email.

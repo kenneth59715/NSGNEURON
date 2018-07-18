@@ -20,7 +20,6 @@ $ cd datadir
 $ cd ..
 $ zip -r input datadir
 ~~~
-{: .language-bash}
 
 This should create an input.zip file.  That file would be selected for
 upload to NSG Portal in the data upload process.
@@ -31,9 +30,9 @@ be used as input.
 Log in to your NSG account at the [Login Page](https://nsgdev.sdsc.edu:8443/portal2).
 
 Create a Folder.  Folders contain sections for Data and Tasks.
-[Folder Management](https://nsgdev.sdsc.edu:8443/portal2/folder!list.action)
+[//: # [Folder Management](https://nsgdev.sdsc.edu:8443/portal2/folder!list.action)
 
-Go to the [Data Upload section](https://nsgdev.sdsc.edu:8443/portal2/data!list.action) and click on Upload Data, then browse to the desired input.zip file
+Go to the Data section and click on Upload Data, then browse to the desired input.zip file
 and confirm.  The file should show up in the data list.
 
 
