@@ -11,6 +11,8 @@ keypoints:
 ---
 ### Background
 
+Neuroscience Gateway was started to provide researchers with
+easy, free access to tools on NSG supercomputers.
  
 ### The NSG Portal
 
