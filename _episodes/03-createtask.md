@@ -19,7 +19,7 @@ done in the Tasks section.
 
 - Click on "Create New Task"
 
-![Image of Tasks creation page](../fig/createtaskspage.png)
+![Image of Tasks creation page](../fig/createtaskpage.png)
 
 - Enter a Description
 - Click on "Select Data", select an input file, and click "Select Data"
@@ -39,7 +39,11 @@ Nodes and Cores, then click "Save Parameters"
 
 - Click "Save and Run Task"
 
-You can check status of the work by going to the Task List and clicking on "View Status" for the Task.
+You can check status of the work by going to the Task List
+
+![Image of Tasks section](../fig/taskspage.png)
+
+and clicking on "View Status" for the Task.
 
 ![Image of View Status page](../fig/taskstatuspage.png)
 
