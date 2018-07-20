@@ -12,9 +12,16 @@ keypoints:
 - "The archive contains the complete input data set, standard out and error, and working directory."
 ---
 
-Go to the Task List and
-click on the "View Output" button for a completed Task.  A list of possible
-downloads is presented.  Click on "Download" for output.tar.gz.  Follow browser
+Go to the Task List and click on the "View Output" button for a completed Task.
+
+![Image of Task List](../fig/taskspage.png)
+
+
+A list of possible downloads is presented.  
+
+![Image of Task List](../fig/taskoutputpage.png)
+ 
+Click on "Download" for output.tar.gz.  Follow browser
 prompts of putting the file in a desired location on your local machine.  Once
 downloaded, you will need to unzip and untar the archive.  For a Linux machine,
 this can be down with
