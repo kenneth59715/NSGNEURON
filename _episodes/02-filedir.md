@@ -29,21 +29,26 @@ job is from Swartz Center for Computational Neuroscience at UCSD.
 A [tutorial](https://sccn.ucsd.edu/wiki/EEGLAB_on_NSG) for running
 this analysis is available.
 
-Log in to your NSG account at the [Login Page](https://nsgdev.sdsc.edu:8443/portal2).
+**Log in to your NSG account at the [Login Page](https://nsgdev.sdsc.edu:8443/portal2).**
 
-> Create a Folder.
+**Create a Folder.**
+***
 ![Image of Folder Page](../fig/folderspage.png)
-Folders contain sections for Data and Tasks.
+***
+**Folders contain sections for Data and Tasks.**
 {% comment %}
 [Folder Management](https://nsgdev.sdsc.edu:8443/portal2/folder!list.action)
 {% endcomment %}
 
-Go to the Data section and click on Upload Data, then browse to the desired input.zip file and confirm.
+**Go to the Data section and click on Upload Data, then browse to the desired input.zip file and confirm.**
+***
 ![Image of Upload Page](../fig/uploaddatapage.png)
+***
 
-The file should show up in the data list.
+**The file should show up in the data list.**
+***
 ![Image of Data List Page](../fig/datalistpage.png)
-
+***
 
 
 
