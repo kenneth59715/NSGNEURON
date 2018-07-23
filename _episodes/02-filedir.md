@@ -31,7 +31,7 @@ this analysis is available.
 
 Log in to your NSG account at the [Login Page](https://nsgdev.sdsc.edu:8443/portal2).
 
-Create a Folder.
+> Create a Folder.
 ![Image of Folder Page](../fig/folderspage.png)
 Folders contain sections for Data and Tasks.
 {% comment %}
