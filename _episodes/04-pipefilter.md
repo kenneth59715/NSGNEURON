@@ -54,3 +54,8 @@ $ tar zxf ../output.tar.gz
 
 ![Image map 2b](../fig/Fig_2b_relica_maps.jpg)
 
+***
+
+> **Bonus Exercise**
+> [test0.hoc](../files/test0.hoc)
+
