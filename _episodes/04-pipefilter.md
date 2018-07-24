@@ -58,4 +58,5 @@ $ tar zxf ../output.tar.gz
 
 > **Bonus Exercise**
 > [test0.hoc](../files/test0.hoc)
+> for [NEURON](https://www.neuron.yale.edu/neuron/) Tool
 
