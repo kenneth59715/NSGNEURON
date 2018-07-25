@@ -28,7 +28,7 @@ at [Registration Form](http://www.nsgportal.org/gest/reg.php).
 You will receive email confirmation when the account is approved.
 
 The NSG software infrastructure is based on software developed by the
-[Cipres Science Gateway](http://phylo.org).
+[CIPRES Science Gateway](http://phylo.org).
 
 NSG, a resource for the neuroscience community, is funded by current and past
 grants from the US National Science Foundation, the US National Institute of
