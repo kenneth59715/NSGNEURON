@@ -37,6 +37,8 @@ keypoints:
 $ mkdir output
 $ cd output
 $ tar zxf ../output.tar.gz
+$ cd JonesEtAl2009
+$ ls -ltr
 ~~~
 {: .language-bash}
 
@@ -44,15 +46,8 @@ $ tar zxf ../output.tar.gz
 
 ***
 
-![Image clusters](../fig/Fig_1_relica_clusters.jpg)
+![Image clusters](../fig/jonels.png)
 
-***
-
-![Image map 2a](../fig/Fig_2a_relica_maps.jpg)
-
-***
-
-![Image map 2b](../fig/Fig_2b_relica_maps.jpg)
 
 ***
 
