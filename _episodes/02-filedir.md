@@ -24,7 +24,8 @@ $ zip -r input datadir
 This should create an input.zip file.  That file would be selected for
 upload to NSG Portal in the data upload process.
 
-This file (or one downloaded from [JonesEtAl2009 page on ModelDB](https://senselab.med.yale.edu/modeldb/ShowModel.cshtml?model=136803)) can be used as input.  The JonesEtAl2009 model is hosted in ModelDB.
+This file (or one downloaded from [JonesEtAl2009 page on ModelDB](https://senselab.med.yale.edu/modeldb/ShowModel.cshtml?model=136803)) can be used as input.  To retrieve the JonesEtAl2009_r31.zip file, click
+the "Download zip file" button.  The JonesEtAl2009 model is a network of neurons and scales well.
 
 > **Log in to your NSG account at the [Login Page](https://nsgdev.sdsc.edu:8443/portal2).**
 > **Create a Folder.**
