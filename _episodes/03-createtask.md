@@ -51,7 +51,7 @@ Nodes and Cores, then click "Save Parameters"**
 
 ***
 
-![Image of Set Parameters page](../fig/setparameterspage.png)
+![Image of Set Parameters page](../fig/setparameters.png)
 
 ***
 
